@@ -7,7 +7,7 @@ Opcjonalne aby poprawić wygląd minecrafta:
 * Pobierz paczkę shaderów: https://www.bitslablab.com/bslshaders/#download
 * Pobrany plik (BSL_v8.0.01.zip) przenieś do folderu shaderpacks w lokalizacji minecrafta (C:\Users\\\<username>\AppData\Roaming\\\.minecraft\shaderpacks)
 * Włącz minecraft launcher
-* Zmień profil na OptiFine: https://imgur.com/a/R4TDNVJ (nieoficjalny launcher: https://imgur.com/a/C6dl26S)
+* Zmień profil na OptiFine: https://i.imgur.com/seqksUe.png (nieoficjalny launcher: https://i.imgur.com/ZaBxxts.png)
 * Włącz grę i wejdź do ustawień: options -> video settings -> shaders i wybierz shader BSL_v8.0.01.zip
 
 Włącz minecraft -> add server  
