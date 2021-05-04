@@ -12,7 +12,7 @@ Opcjonalne aby poprawić wygląd minecrafta:
 
 Włącz minecraft -> add server  
 W pole Server Name wpisz "Pochud"  
-W pole Server Address wpisz "20.52.176.11" (adres może się zmienić w dniu pochodu)  
+W pole Server Address wpisz "pochud.b33r.us" (adres może się zmienić)  
 -> done  
 Na liście serwerów pojawi się nowy serwer.  
 Po dołączeniu na serwer należy się zarejestrować. W tym celu należy otworzyć czat (wciskając "t" na klawiaturze). Następnie ustawiamy hasło komendą:
