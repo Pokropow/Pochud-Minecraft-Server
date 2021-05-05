@@ -23,3 +23,8 @@ Podczas następnego logowania logujemy się komendą
 ```
 /login <hasło>
 ```
+
+## Pokaz P.I.W.O.
+Podczas oglądania pokazu na serwerze należy mieć otwartą przeglądarkę internetową z otworzoną aplikacją do odtwarzania audio. Aplikacja będzie znajdowała się pod adresem http://pochud.b33r.us  
+Na stronę należy wejść przed rozpoczęciem pokazu (najlepiej kilka minut wcześniej) w celu wczytania utworów do odtworzenia podczas pokazu.  
+Najlepiej przed pokazem ściszyć audio z okna przeglądarki.
