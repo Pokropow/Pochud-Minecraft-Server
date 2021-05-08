@@ -28,3 +28,10 @@ Podczas następnego logowania logujemy się komendą
 Podczas oglądania pokazu na serwerze należy mieć otwartą przeglądarkę internetową z otworzoną aplikacją do odtwarzania audio. Aplikacja będzie znajdowała się pod adresem http://pochud.b33r.us. W dacie pokazu powinien na stronie pokazać się obrazek z kuflem piwa. Jeżeli pojawia się stłuczona butelka lub napis "pending" należy poczekać lub odświerzyć stronę.
 Na stronę należy wejść przed rozpoczęciem pokazu (najlepiej kilka minut wcześniej) w celu wczytania utworów do odtworzenia podczas pokazu.  
 Najlepiej przed pokazem ściszyć audio z okna przeglądarki.
+
+Jeżeli skorzystałeś z opcji pobrania OptiFine w ustawieniach warto zmienić opcję: Options->Video Settings->Performance->Chunk Updates na 3 lub 5 oraz  
+Options->Video Settings->Graphics: Fast  
+
+Aby pokaz wyglądał płynnie minecraft musi działać w co najmniej 60 klatkach na sekundę (można to sprawdzić pod przyciskiem F3). Osoby nie posiadające wystarczająco potężnego sprzętu zapraszamy do oglądania stream'u na stronie fb wydarzenia.  
+Jeżeli pokaz nadal nie wygląda płynnie to można zmniejszyć rozdzielczość, zmniejszyć Render Distance (Options->Video Settings) lub wyłączyć shadery jeżeli były pobrane.
+
