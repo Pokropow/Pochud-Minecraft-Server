@@ -25,9 +25,8 @@ Podczas następnego logowania logujemy się komendą
 ```
 
 ## Pokaz P.I.W.O.
-Podczas oglądania pokazu na serwerze należy mieć otwartą przeglądarkę internetową z otworzoną aplikacją do odtwarzania audio. Aplikacja będzie znajdowała się pod adresem http://piwo.enbyted.ovh. W dacie pokazu powinien na stronie pokazać się obrazek z kuflem piwa. Jeżeli pojawia się stłuczona butelka lub napis "pending" należy poczekać lub odświeżyć stronę.
-Na stronę należy wejść przed rozpoczęciem pokazu (najlepiej kilka minut wcześniej) w celu wczytania utworów do odtworzenia podczas pokazu.  
-Najlepiej przed pokazem ściszyć audio z okna przeglądarki.
+Podczas oglądania pokazu na serwerze należy mieć otwartą przeglądarkę internetową z otworzoną aplikacją do odtwarzania audio. Aplikacja będzie znajdowała się pod adresem http://piwo.enbyted.ovh. 
+Na stronę należy wejść przed rozpoczęciem pokazu (najlepiej kilka minut wcześniej) w celu wczytania utworów do odtworzenia podczas pokazu. Można wejść wcześniej i kliknąć przycisk "Połącz z serwerem".  
 
 Jeżeli skorzystałeś z opcji pobrania OptiFine w ustawieniach warto zmienić opcję: Options->Video Settings->Performance->Chunk Updates na 3 lub 5 oraz  
 Options->Video Settings->Graphics: Fast  
