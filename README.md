@@ -35,3 +35,4 @@ Options->Video Settings->Graphics: Fast
 Aby pokaz wyglądał płynnie minecraft musi działać w co najmniej 60 klatkach na sekundę (można to sprawdzić pod przyciskiem F3). Osoby nie posiadające wystarczająco potężnego sprzętu zapraszamy do oglądania stream'u na stronie fb wydarzenia.  
 Jeżeli pokaz nadal nie wygląda płynnie to można zmniejszyć rozdzielczość, zmniejszyć Render Distance (Options->Video Settings) lub wyłączyć shadery jeżeli były pobrane.
 
+Przykładowe ustawienia: https://i.imgur.com/NAn7It6.png.
