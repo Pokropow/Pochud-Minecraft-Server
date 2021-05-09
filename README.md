@@ -12,7 +12,7 @@ Opcjonalne aby poprawić wygląd minecrafta:
 
 Włącz minecraft -> add server  
 W pole Server Name wpisz "Pochud"  
-W pole Server Address wpisz "pochud.b33r.us" (adres może się zmienić)  
+W pole Server Address wpisz "piwo.enbyted.ovh" (adres może się zmienić)  
 -> done  
 Na liście serwerów pojawi się nowy serwer.  
 Po dołączeniu na serwer należy się zarejestrować. W tym celu należy otworzyć czat (wciskając "t" na klawiaturze). Następnie ustawiamy hasło komendą:
@@ -25,7 +25,7 @@ Podczas następnego logowania logujemy się komendą
 ```
 
 ## Pokaz P.I.W.O.
-Podczas oglądania pokazu na serwerze należy mieć otwartą przeglądarkę internetową z otworzoną aplikacją do odtwarzania audio. Aplikacja będzie znajdowała się pod adresem http://pochud.b33r.us. W dacie pokazu powinien na stronie pokazać się obrazek z kuflem piwa. Jeżeli pojawia się stłuczona butelka lub napis "pending" należy poczekać lub odświeżyć stronę.
+Podczas oglądania pokazu na serwerze należy mieć otwartą przeglądarkę internetową z otworzoną aplikacją do odtwarzania audio. Aplikacja będzie znajdowała się pod adresem http://piwo.enbyted.ovh. W dacie pokazu powinien na stronie pokazać się obrazek z kuflem piwa. Jeżeli pojawia się stłuczona butelka lub napis "pending" należy poczekać lub odświeżyć stronę.
 Na stronę należy wejść przed rozpoczęciem pokazu (najlepiej kilka minut wcześniej) w celu wczytania utworów do odtworzenia podczas pokazu.  
 Najlepiej przed pokazem ściszyć audio z okna przeglądarki.
 
